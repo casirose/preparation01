@@ -2,4 +2,4 @@
 STAT with R programming assignment 
 
 
-![](https://giphy.com/gifs/SkyTV-disney-frozen-olaf-lpHPFVpk65qpbH2XY5)
+![Image](https://giphy.com/gifs/SkyTV-disney-frozen-olaf-lpHPFVpk65qpbH2XY5/fullscreen)
